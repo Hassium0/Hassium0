@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey 👋 I'm Hassium
 
-<!--
-**Hassium0/Hassium0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Engineering student from Uzbekistan 🇺🇿
+> Linux enthusiast • Cybersecurity learner • Hardware lover
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐧 I like Arch Linux + Hyprland
+- 🔒 Learning Cybersecurity & Penetration testing & Engeneering
+- 🤖 Interested in Robotics & Embedded Systems & pentesting
+- 🌐 Cisco Networking
+- 📚 Goal: Study abroad and become an Cybersecurity Specialist 
+
+---
+
+## 🛠 Tech Stack
+
+### Operating Systems
+
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+### Languages
+
+- Uzbek
+- Russian
+- English
+### Programing languages
+- Python
+- C (learning)
+
+  
+---
+
+## Current Goals
+
+- Learn Reverse Engineering
+- Improve C programming
+- Build useful Linux projects
+- Prepare for university
+
+---
+
+## Favorite Quote
+
+> "Understanding is more valuable than memorizing."
