@@ -20,6 +20,8 @@
 ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_10-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
+---
+
 ### Languages
 
 - Uzbek
@@ -29,6 +31,8 @@
 ### Programing languages
 - Python
 - C (learning)
+
+---
   
 ### 🌐 Networking
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
