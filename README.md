@@ -19,9 +19,20 @@
 - 🐧 I like Arch Linux + Hyprland
 - 🔒 Learning Cybersecurity & Penetration testing & Engeneering
 - 🤖 Interested in Robotics & Embedded Systems
+- 🛠️ Passionate about understanding how systems work—from hardware to operating systems
 - 🌐 Cisco Networking
 - 📚 Goal: Study abroad and become an Cybersecurity Specialist 
 
+---
+## 🤝 Open Source Contributions
+
+One of my first open-source contributions was fixing a bug in **illogical-impulse** — the popular Hyprland dotfiles project.
+
+- ✅ Bug fix: https://github.com/end-4/dots-hyprland/pull/3500
+
+I plan to continue contributing to open-source projects as I learn.
+
+---
 
 ## 🛠 Tech Stack
 
