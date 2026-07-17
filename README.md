@@ -7,7 +7,7 @@
 
 - 🐧 I like Arch Linux + Hyprland
 - 🔒 Learning Cybersecurity & Penetration testing & Engeneering
-- 🤖 Interested in Robotics & Embedded Systems & pentesting
+- 🤖 Interested in Robotics & Embedded Systems
 - 🌐 Cisco Networking
 - 📚 Goal: Study abroad and become an Cybersecurity Specialist 
 
@@ -15,19 +15,24 @@
 
 ## 🛠 Tech Stack
 
-### Operating Systems
+### 🖥️ Operating Systems
 
 ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_10-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
 ### Languages
 
 - Uzbek
 - Russian
 - English
+  
 ### Programing languages
 - Python
 - C (learning)
-
+  
+### 🌐 Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
   
 ---
 
