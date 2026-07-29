@@ -35,15 +35,6 @@ I plan to continue contributing to open-source projects as I learn.
 
 ---
 
-## 🛠 Tech Stack
-
-### 🖥️ Operating Systems
-
-![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
 ## Languages I Speak
 
 🇺🇿 Uzbek  ·  🇬🇧 English  ·  🇷🇺 Russian
