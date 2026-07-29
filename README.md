@@ -16,8 +16,9 @@
 
 ## 🚀 About Me
 
-- 🐧 I like Arch Linux + Hyprland
-- 🔒 Learning Cybersecurity & Penetration testing & Engeneering
+- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff
+- 🐧 ARCH Linux is my favorite OS
+- 🔒 Learning Cybersecurity & Penetration testing & Engineering
 - 🤖 Interested in Robotics & Embedded Systems
 - 🛠️ Passionate about understanding how systems work—from hardware to operating systems
 - 🌐 Cisco Networking
