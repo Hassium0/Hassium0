@@ -66,8 +66,6 @@ I plan to continue contributing to open-source projects as I learn.
 - Build useful Linux projects
 - Prepare for university
 
+---
 
-
-## Favorite Quote
-
-> "Understanding is more valuable than memorizing."
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+%F0%9F%99%82)](https://git.io/typing-svg)
