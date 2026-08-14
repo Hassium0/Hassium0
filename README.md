@@ -55,7 +55,7 @@ I plan to continue contributing to open-source projects as I learn.
 ## Current Goals
 
 - Learn Reverse Engineering
-- Improve Pyhton programming
+- Learn C programming
 - Build useful Linux projects
 - Prepare for university
 
