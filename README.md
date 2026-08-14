@@ -17,6 +17,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff
+- I'm hardware and software enthusiast
 - 🐧 ARCH Linux is my favorite OS
 - 🔒 Learning Cybersecurity & Penetration testing & Engineering
 - 🤖 Interested in Robotics & Embedded Systems
